@@ -100,7 +100,7 @@ RoboCup@Space 2026では、JAXAが開発したInt-Ball2のGazeboシミュレー�
 | 発表タイトル | 著者 | 要旨PDF |
 |--------------|------|---------|
 | RoboCup JapanOpen @Space Challenge の構想 | 萩原 良信 ほか | [📄 要旨PDFを開く](docs/1I1-03.pdf) |
-| ISS船内ロボットInt-Ball2による技術実証とRoboCup@Spaceへの展開 | 池田 勇輝 ほか | [📄 要旨PDFを開く](docs/1I1-03.pdf) |
+| ISS船内ロボットInt-Ball2による技術実証とRoboCup@Spaceへの展開 | 池田 勇輝 ほか | [📄 要旨PDFを開く](docs/1I1-04.pdf) |
 
 <br>
 
