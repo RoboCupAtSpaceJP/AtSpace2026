@@ -26,7 +26,7 @@ RoboCup@Spaceは、将来の月・惑星探査や軌道上サービスに不可�
 
 ## 競技内容
 
-宇宙飛行士の撮影作業の自律的支援
+宇宙飛行士の撮影作業の自律的支援タスク
 1. 標位置への自律移動
    - ドッキングステーションから目標位置まで自律的に移動する。
    - この際、立っている宇宙飛行士を避ける。
@@ -38,6 +38,12 @@ RoboCup@Spaceは、将来の月・惑星探査や軌道上サービスに不可�
 3. ステーションへの自律帰還
    - 再度、立っている宇宙飛行士を避ける。
    - ステーションに自律的に帰還し、ドッキングする。
+
+<br>
+
+<p align="center">
+  <img src="img/robocup_space_task1.jpg" alt="RoboCup@Space Task1" width="70%">
+</p>
 
 <br>
 
@@ -55,7 +61,7 @@ RoboCup@Space 2026では、JAXAが開発したInt-Ball2のGazeboシミュレー�
 <br>
 
 <p align="center">
-  <img src="img/intball2_gazebo.jpg" alt="RoboCup@Space Logo" width="70%">
+  <img src="img/intball2_gazebo.jpg" alt="Int-Ball2 Gazebo" width="70%">
 </p>
 
 <br>
