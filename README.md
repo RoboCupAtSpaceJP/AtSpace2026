@@ -3,29 +3,28 @@
 **RoboCup@Space**は、宇宙における自律型ロボットの発展や社会実装を目指した競技会です。
 このリポジトリは、2026年開催予定のRoboCup@Spaceの概要やルールをまとめるためのものになります。
 
-![RoboCup@Space Logo](img/robocup_space.jpg)
+<p align="center">
+  <img src="img/robocup_space.png" alt="RoboCup@Space Logo" width="70%">
+</p>
 
 ## 目次
 1. [**概要**](#概要)
-    1. [競技の目的](#競技の目的)
-    2. [競技内容](#競技内容)
+2. [**競技内容**](#競技内容)
+3. [**シミュレータ環境**](#シミュレータ環境)
+4. [**採点項目例**](#採点項目例)
+5. [**参考情報**](#参考情報)
 
-2. [**シミュレータ環境**](#シミュレータ環境)
-    1. [使用技術](#使用技術)
-    2. [シナリオ例](#シナリオ例)
-
-3. [**ルールと評価**](#ルールと評価)
-    1. [基本ルール](#基本ルール)
-    2. [評価基準](#評価基準)
-
-4. [**参考情報**](#参考情報)
-
+<br>
 
 ## 概要
 RoboCup@Spaceは、将来の月・惑星探査や軌道上サービスに不可欠な「AI × 宇宙ロボット」技術の発展を目的とした競技会です。自律型ロボットの世界的大会「RoboCup」に新たなカテゴリとして新設しました。
 第1回目となる今回は、JAXAが開発したISS搭載ロボットInt-Ball2を用いたシナリオを想定します。JAXAが開発したInt-Ball2のGazeboシミュレータを活用し、自律的な移動やマニピュレーション、協調作業といったタスクを競い合うことで、教育と研究の両面から宇宙ロボット開発の裾野を広げます。まずはシミュレータ上で開催し、将来的には実際の軌道上のISSにあるInt-Ball2を用いた競技へと発展させ、宇宙ロボットに関するベンチマーク構築を目指します。
 
-## 競技内容 (宇宙飛行士の撮影作業の自律的支援)
+<br>
+
+## 競技内容
+
+宇宙飛行士の撮影作業の自律的支援
 1. 標位置への自律移動
    - ドッキングステーションから目標位置まで自律的に移動する。
    - この際、立っている宇宙飛行士を避ける。
@@ -38,15 +37,18 @@ RoboCup@Spaceは、将来の月・惑星探査や軌道上サービスに不可�
    - 再度、立っている宇宙飛行士を避ける。
    - ステーションに自律的に帰還し、ドッキングする。
 
+<br>
+
 ## シミュレータ環境
 RoboCup@Space 2026では、JAXAが開発したInt-Ball2のGazeboシミュレータを用います。
 
-### 使用技術
-- **Gazebo** / **Ignition**  
-- **Isaac Sim**  
-- **ROS / ROS 2**  
+<p align="center">
+  <img src="img/intball2_gazebo.jpg" alt="RoboCup@Space Logo" width="70%">
+</p>
 
-### 採点項目例
+<br>
+
+## 採点項目例
 
 | 項目       | 内容                                      | スコア（例）   |
 |------------|------------------------------------------|----------------|
@@ -56,11 +58,10 @@ RoboCup@Space 2026では、JAXAが開発したInt-Ball2のGazeboシミュレー�
 | 自律帰還   | ステーションに戻り、ドッキング成功           | 10点           |
 | 障害物回避 | 移動経路で障害物を回避できたか               | 10点×2回       |
 
+<br>
+
 ## 参考情報
-- [RoboCup Official Website](https://www.robocup.org/)  
-- [NASA Astrobee](https://www.nasa.gov/astrobee/)  
-- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/#introduction)  
-- [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)  
+- [RoboCup Official Website](https://www.robocup.org/)
 
 ---
 
