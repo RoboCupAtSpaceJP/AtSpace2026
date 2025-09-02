@@ -51,12 +51,12 @@ RoboCup@Spaceは、将来の月・惑星探査や軌道上サービスに不可�
 RoboCup@Space 2026では、JAXAが開発したInt-Ball2のGazeboシミュレータを用います。
 
 - [jaxa/int-ball2_simulaton](https://github.com/jaxa/int-ball2_simulaton)  
-  Int-Ball2のシミュレーション環境を提供するリポジトリです。  
-  Gazebo上での動作モデルや制御インターフェースを含み、研究者や開発者がISS船内ロボットの挙動を検証できる環境を整備しています。
+  - Int-Ball2のシミュレーション環境を提供するリポジトリです。  
+  - Gazebo上での動作モデルや制御インターフェースを含み、研究者や開発者がISS船内ロボットの挙動を検証できる環境を整備しています。
 
 - [jaxa/int-ball2_simulator_docker](https://github.com/jaxa/int-ball2_simulator_docker)  
-  Int-Ball2シミュレーションをDocker上で簡単に実行できる環境を提供するリポジトリです。  
-  環境構築の手間を省き、誰でも容易にシミュレーションを体験できるよう設計されています。
+  - Int-Ball2シミュレーションをDocker上で簡単に実行できる環境を提供するリポジトリです。  
+  - 環境構築の手間を省き、誰でも容易にシミュレーションを体験できるよう設計されています。
 
 <br>
 
