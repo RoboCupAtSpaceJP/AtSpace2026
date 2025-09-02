@@ -37,8 +37,6 @@ RoboCup@Spaceは、将来の月・惑星探査や軌道上サービスに不可�
    - 再度、立っている宇宙飛行士を避ける。
    - ステーションに自律的に帰還し、ドッキングする。
 
-<br>
-
 ![RoboCup@Space Logo](img/robocup_space_task1.jpg)
 
 <br>
@@ -53,8 +51,6 @@ RoboCup@Space 2026では、JAXAが開発したInt-Ball2のGazeboシミュレー�
 - [jaxa/int-ball2_simulator_docker](https://github.com/jaxa/int-ball2_simulator_docker)  
   - Int-Ball2シミュレーションをDocker上で簡単に実行できる環境を提供するリポジトリです。  
   - 環境構築の手間を省き、誰でも容易にシミュレーションを体験できるよう設計されています。
-
-<br>
 
 ![RoboCup@Space Logo](img/intball2_gazebo.jpg)
 
