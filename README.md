@@ -3,9 +3,7 @@
 **RoboCup@Space**は、宇宙における自律型ロボットの発展や社会実装を目指した競技会です。
 このリポジトリは、2026年開催予定のRoboCup@Spaceの概要やルールをまとめるためのものになります。
 
-<p align="center">
-  <img src="img/robocup_space.jpg" alt="RoboCup@Space Logo" width="70%">
-</p>
+![RoboCup@Space Logo](img/robocup_space.jpg)
 
 ## 目次
 1. [**概要**](#概要)
@@ -41,9 +39,7 @@ RoboCup@Spaceは、将来の月・惑星探査や軌道上サービスに不可�
 
 <br>
 
-<p align="center">
-  <img src="img/robocup_space_task1.jpg" alt="RoboCup@Space Task1" width="70%">
-</p>
+![RoboCup@Space Logo](img/robocup_space_task1.jpg)
 
 <br>
 
@@ -60,9 +56,7 @@ RoboCup@Space 2026では、JAXAが開発したInt-Ball2のGazeboシミュレー�
 
 <br>
 
-<p align="center">
-  <img src="img/intball2_gazebo.jpg" alt="Int-Ball2 Gazebo" width="70%">
-</p>
+![RoboCup@Space Logo](img/intball2_gazebo.jpg)
 
 <br>
 
