@@ -1,4 +1,4 @@
-# RoboCup@Space 2026 (第1回)
+<img width="2198" height="479" alt="image" src="https://github.com/user-attachments/assets/7f6b87b1-fe3b-4f80-80f1-45d24aad302a" /># RoboCup@Space 2026 (第1回)
 
 **RoboCup@Space**は、宇宙における自律型ロボットの発展や社会実装を目指したRoboCup Japan Openを対象とした競技会です。
 このリポジトリは、2026年開催予定のRoboCup@Spaceの概要やルールをまとめるためのものになります。
@@ -19,6 +19,9 @@
 ## 概要
 RoboCup@Spaceは、将来の月・惑星探査や軌道上サービスに不可欠な「AI × 宇宙ロボット」技術の発展を目的とした競技会です。自律型ロボットの競技会「RoboCup Japan Open」に新たなカテゴリとして新設しました。
 第1回目となる今回は、JAXAが開発したISS搭載ロボットInt-Ball2を用いたシナリオを想定します。JAXAが開発したInt-Ball2のGazeboシミュレータを活用し、自律的な移動やマニピュレーション、協調作業といったタスクを競い合うことで、教育と研究の両面から宇宙ロボット開発の裾野を広げます。まずはシミュレータ上で開催し、将来的には実際の軌道上のISSにあるInt-Ball2を用いた競技へと発展させ、宇宙ロボットに関するベンチマーク構築を目指します。
+
+コミュニティ：Discordサーバー <br>
+・https://discord.gg/nCs4AzANwt
 
 <br>
 
