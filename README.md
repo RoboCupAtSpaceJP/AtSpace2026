@@ -1,4 +1,4 @@
-<img width="2198" height="479" alt="image" src="https://github.com/user-attachments/assets/7f6b87b1-fe3b-4f80-80f1-45d24aad302a" /># RoboCup@Space 2026 (第1回)
+# RoboCup@Space 2026 (第1回)
 
 **RoboCup@Space**は、宇宙における自律型ロボットの発展や社会実装を目指したRoboCup Japan Openを対象とした競技会です。
 このリポジトリは、2026年開催予定のRoboCup@Spaceの概要やルールをまとめるためのものになります。
